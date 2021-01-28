@@ -1,0 +1,52 @@
+.principal-box {
+  height: 100px;
+  width: 500px;
+  background-color: white;
+  border-color: black;
+  position: absolute ;
+  left: 100px;
+}
+
+#archivo { 
+    color: black; 
+    float: right;
+   
+}
+
+#puntos {
+    float: right;
+    margin: 5%;
+    text-align-last: right;
+    
+}
+.iconohtml 
+{margin: 20px;
+display: inline-block;
+}
+
+.nombre {
+    margin: 5%;
+    display: inline-block;
+    
+}
+
+.header {
+    background-color: aqua;
+    border-color: black;
+    margin: auto;
+}    
+
+   
+
+.central-box {
+    padding-right: 10px;
+    background-origin: padding-box;
+    background-color: darkblue;
+    border: black;
+}
+.emojis {
+    margin-left: 3%;
+}
+.footer {
+    background-color: cornflowerblue;
+}
